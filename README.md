@@ -22,6 +22,37 @@ Leveraging Excel's visualization tools, I create dynamic dashboards showcasing m
 - CAR INSURNACE POLICIES REPORT – Project (LinkedIn Challenge) – PowerBI	
 In this car insurance policies report project, I conducted a comprehensive analysis of policy data to provide insights on coverage trends, customer preferences, and patterns.
 
+- #### House Sales Data Analysis - Perosnal Project - Excel and PowerBI
+
+In the realm of real estate analytics, understanding housing market trends and patterns is crucial for both buyers and sellers. The "King County, Washington House Sales Dashboard" is a comprehensive data visualization project that delves into the housing market dynamics of King County, Washington. This project involved gathering, cleaning, and analyzing real estate data from Kaggle, followed by the creation of an interactive and insightful dashboard using Power BI.
+
+**Project Phases:**
+
+1. **Data Collection:** The project began by sourcing raw data from Kaggle, a popular platform for datasets and machine learning competitions. The dataset included a wealth of information about house sales in King County, Washington, spanning a significant period. This data encompassed various features such as sale prices, location, square footage, number of bedrooms, bathrooms, and more.
+
+2. **Data Cleaning and Preprocessing:** Once the data was acquired, it required thorough cleaning and preprocessing to ensure accuracy and consistency. Excel was utilized for tasks such as removing duplicates, handling missing values, and formatting data appropriately for analysis. This phase aimed to create a clean, organized dataset ready for further analysis.
+
+3. **Dashboard Creation:** The heart of the project was the creation of an interactive dashboard using Power BI, a powerful business analytics tool. Leveraging the cleaned dataset, you meticulously designed a user-friendly interface that allowed users to explore various facets of the King County housing market. The dashboard included visually engaging charts, graphs, maps, and filters to provide an intuitive and dynamic user experience.
+
+**Key Features of the Dashboard:**
+
+- **Geospatial Visualization:** A map visualization showcased the distribution of house sales across King County, helping users identify popular neighborhoods and areas of interest.
+  
+- **Trends and Patterns:** Time-series line charts demonstrated trends in house prices over the analyzed period, enabling users to understand fluctuations and seasonal patterns.
+  
+- **Property Features Impact:** Visualizations depicted how various features (e.g., bedrooms, bathrooms, square footage) influenced property prices, giving users insights into buyer preferences and market demand.
+  
+- **Interactive Filters:** Users could interact with filters to refine their analysis based on specific criteria such as price range, location, and property characteristics.
+  
+- **Predictive Insights:** Utilizing Power BI's capabilities, you potentially integrated predictive models or trends to provide users with estimated future price trends or market forecasts.
+
+**Project Impact:**
+
+The King County, Washington House Sales Dashboard empowered users, including potential homebuyers, sellers, and real estate professionals, with data-driven insights. This interactive tool facilitated informed decision-making by shedding light on housing market trends, identifying investment opportunities, and understanding factors affecting property values. By presenting complex data in an accessible manner, your project contributed to enhancing transparency and efficiency in the King County housing market.
+
+Overall, your project demonstrated your skills in data collection, cleaning, visualization, and dashboard creation, showcasing your ability to transform raw data into actionable insights for stakeholders in the real estate industry.
+
+
 ## Work Experience
 - ##### ACCENTURE – Data Analytics and Visualization Virtual Experience 	
 In this program By Accenture, I contributed to the project by conducting data cleaning, data modeling, and visualization
