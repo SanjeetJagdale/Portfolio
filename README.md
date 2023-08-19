@@ -11,7 +11,8 @@
 - Communication
 - Data Visualization (Storytelling)
 
-## Project 
+## Project ##
+
 
 ### DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI ###
 I did web scraping to collect a data, I analyzed industry trends and employment data to uncover insights into the demand for skills and qualifications in the field.
@@ -27,7 +28,8 @@ As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies
 -***Key Insights from the Analysis:***
 - Genre Popularity: The project potentially revealed the most popular music genres among customers, which could be used to curate playlists and tailor marketing efforts.
 - Top-Selling Products:Visualizations demonstrated the products that generated the highest revenue, offering valuable information for inventory management and marketing campaigns.
-- Customer Segmentation: By examining customer demographics and purchase behavior, I potentially identified different customer segments, paving the way for targeted promotions and personalized experiences.
+- Customer Segmentation: By examining customer demographics and purchase behavior, I potentially identified different customer
+segments, paving the way for targeted promotions and personalized experiences.
 - Seasonal Trends: Analyzing sales data over time potentially exposed seasonal purchasing patterns, aiding in optimizing pricing and marketing strategies.
 
 -***Project Impact:***
@@ -94,7 +96,8 @@ In the realm of real estate analytics, understanding housing market trends and p
 The King County, Washington House Sales Dashboard empowered users, including potential homebuyers, sellers, and real estate professionals, with data-driven insights. This interactive tool facilitated informed decision-making by shedding light on housing market trends, identifying investment opportunities, and understanding factors affecting property values. By presenting complex data in an accessible manner, This project contributed to enhancing transparency and efficiency in the King County housing market.
 
 
-## Work Experience
+## Work Experience ##
+____________________________________________
 - ##### ACCENTURE – Data Analytics and Visualization Virtual Experience 	
 In this program By Accenture, I contributed to the project by conducting data cleaning, data modeling, and visualization
 I identified the most popular content categories through data-driven insights
@@ -106,7 +109,8 @@ I formulated a precise customer targeting strategy, outlined in a PowerPoint pre
 I also designed a dashboard showcasing analysis results and proposed marketing strategies for growth	
 Education
 
-## Education
+## Education ##
+---------------------------------------------
 BACHELOR OF ENGINEERING – SPPU – D.Y. Patil College of Engineering, Akurdi, Pune.                       June 2018 – June 2022           - CGPA: 8.39
 
 
