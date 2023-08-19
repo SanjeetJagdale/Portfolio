@@ -1,6 +1,7 @@
-# Data Analyst / Business Aanlyst
-
-## Skill 
+# Data Analyst / Business Aanlyst #
+-----------------------------------------------------------------
+## Skill ##
+---------------------------------------
 - SQL (SQL Server, MySQL)
 - Excel (VLOOKUPs, Conditional Formatting, Pivot Tables, Dashboard)
 - Data Analysis
@@ -12,11 +13,10 @@
 - Data Visualization (Storytelling)
 
 ## Project ##
-
-
+----------------------------------------
 ### DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI ###
 I did web scraping to collect a data, I analyzed industry trends and employment data to uncover insights into the demand for skills and qualifications in the field.
-
+---------------
 ### MUSIC STORE DATA ANAYSIS – Project (LinkedIn Challenge) – SQL ###
 As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies my passion for uncovering insights through data-driven exploration. This project was a remarkable endeavor where I delved into the world of music retail by leveraging SQL and a dataset from Kaggle. Through meticulous data analysis, I unearthed patterns and trends that shed light on customer behavior and product popularity, demonstrating my analytical capabilities in the field.
 
@@ -36,7 +36,7 @@ segments, paving the way for targeted promotions and personalized experiences.
 The "Music Store Data Analysis" project is a testament to my dedication to learning and applying data analytics techniques. As a fresher, this undertaking underscores my commitment to exploring insights that drive business decisions and enhance customer experiences. Through the power of SQL, I demonstrated my ability to transform raw data into actionable insights, showcasing my value in the field of data analysis.
 Adding this project to my portfolio signifies my eagerness to contribute to data-driven decision-making and showcases my dedication to continuous learning and growth. This project underscores my passion for deriving value from data and provides a glimpse into my potential to make an impact as I embark on my journey in the realm of data analysis.
 As a fresher, this project is a stepping stone towards establishing my credibility in the field, highlighting my ability to handle real-world data and present meaningful findings to drive business success.
-
+---------------
 ### COFFEE SALES DATA ANALYSIS – Personal Project – Excel	###
 Embarking on the intersection of data, technology, and business insights, the "Coffee Sales Data Analysis" project showcases my harnessing AI web scraping tools to unearth data. In this, I leveraged cutting-edge technology to gather raw data from online sources, cleaned and structured it using Excel, and in an interactive and visually engaging dashboard within the familiar confines of Microsoft Excel.
 
@@ -56,7 +56,7 @@ Embarking on the intersection of data, technology, and business insights, the "C
 The "Coffee Sales Data Analysis" project demonstrates my expertise in leveraging cutting-edge technology for data acquisition, cleansing, and visualization. By weaving together AI-driven web scraping, Excel data manipulation, and interactive dashboard design, I showcased my ability to create actionable insights from raw data.
 This project's significance lies in its accessibility – the interactive dashboard is hosted within the widely used Excel environment, making data analysis and decision-making seamless for stakeholders. By bringing data insights to the forefront in a familiar setting, I exemplify my commitment to leveraging technology to drive business intelligence and foster data-driven decision-making.
 Adding this project to my portfolio exemplifies my capability to amalgamate diverse technologies, from AI scraping tools to Excel, to provide practical and impactful solutions. It serves as a testament to my dedication to transforming data into actionable insights that empower businesses to make informed decisions and drive success.
-
+---------------
 ### CAR INSURNACE POLICIES REPORT – Project (LinkedIn Challenge) – PowerBI ###
 In the dynamic realm of data-driven insights, the "Car Insurance Policies Report" stands as a testament to my proficiency in transforming complex datasets into actionable information. This project was a response to a challenging opportunity presented on LinkedIn, where I was tasked with analyzing a provided dataset related to car insurance policies. Leveraging Power BI, I crafted an illuminating dashboard that distilled intricate data into coherent visualizations, enabling stakeholders to make informed decisions in the insurance domain.
 
@@ -76,7 +76,7 @@ In the dynamic realm of data-driven insights, the "Car Insurance Policies Report
 The "Car Insurance Policies Report" effectively bridged the gap between complex data and actionable insights within the insurance industry. By transforming raw data into visually appealing and easy-to-understand visualizations, the dashboard empowered stakeholders to make well-informed decisions regarding policy pricing, risk assessment, and customer engagement strategies. This project exemplifies my ability to extract meaningful insights from diverse datasets and present them in a compelling and user-friendly format.
 With this project, I showcased my proficiency in data manipulation, visualization design, and dashboard creation using Power BI. This undertaking underscores my commitment to driving data-driven decision-making and contributing value to the insurance sector through innovative analytics solutions.
 By adding this project to my portfolio, I demonstrate my capability to transform real-world challenges into insightful solutions, all while enhancing the accessibility and usability of complex data for diverse stakeholders.
-
+---------------
 ### House Sales Data Analysis - Perosnal Project - Excel and PowerBI ###
 In the realm of real estate analytics, understanding housing market trends and patterns is crucial for both buyers and sellers. The "King County, Washington House Sales Analysis" is a comprehensive data visualization project that delves into the housing market dynamics of King County, Washington. This project involved gathering, cleaning, and analyzing real estate data from Kaggle, followed by the creation of an interactive and insightful dashboard using Power BI.
 
@@ -97,7 +97,7 @@ The King County, Washington House Sales Dashboard empowered users, including pot
 
 
 ## Work Experience ##
-____________________________________________
+---------------------------------------
 - ##### ACCENTURE – Data Analytics and Visualization Virtual Experience 	
 In this program By Accenture, I contributed to the project by conducting data cleaning, data modeling, and visualization
 I identified the most popular content categories through data-driven insights
@@ -110,7 +110,7 @@ I also designed a dashboard showcasing analysis results and proposed marketing s
 Education
 
 ## Education ##
----------------------------------------------
+---------------------------------------
 BACHELOR OF ENGINEERING – SPPU – D.Y. Patil College of Engineering, Akurdi, Pune.                       June 2018 – June 2022           - CGPA: 8.39
 
 
