@@ -12,7 +12,7 @@
 - Data Visualization (Storytelling)
 
 ## Project 
-- DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI	
+**DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI**
 I did web scraping to collect a data, I analyzed industry trends and employment data to uncover insights into the demand for skills and qualifications in the field.
 
 - #### MUSIC STORE DATA ANAYSIS – Project (LinkedIn Challenge) – SQL ####
