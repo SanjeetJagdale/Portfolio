@@ -12,10 +12,11 @@
 - Data Visualization (Storytelling)
 
 ## Project 
-**DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI**
+
+### DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI ###
 I did web scraping to collect a data, I analyzed industry trends and employment data to uncover insights into the demand for skills and qualifications in the field.
 
-- ### MUSIC STORE DATA ANAYSIS – Project (LinkedIn Challenge) – SQL ###
+### MUSIC STORE DATA ANAYSIS – Project (LinkedIn Challenge) – SQL ###
 As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies my passion for uncovering insights through data-driven exploration. This project was a remarkable endeavor where I delved into the world of music retail by leveraging SQL and a dataset from Kaggle. Through meticulous data analysis, I unearthed patterns and trends that shed light on customer behavior and product popularity, demonstrating my analytical capabilities in the field.
 
 -***Project Phases:***
@@ -35,9 +36,10 @@ Adding this project to my portfolio signifies my eagerness to contribute to data
 As a fresher, this project is a stepping stone towards establishing my credibility in the field, highlighting my ability to handle real-world data and present meaningful findings to drive business success.
 
 
-- ### COFFEE SALES DATA ANALYSIS – Personal Project – Excel	###
+### COFFEE SALES DATA ANALYSIS – Personal Project – Excel	###
 Embarking on the intersection of data, technology, and business insights, the "Coffee Sales Data Analysis" project showcases my harnessing AI web scraping tools to unearth data. In this, I leveraged cutting-edge technology to gather raw data from online sources, cleaned and structured it using Excel, and in an interactive and visually engaging dashboard within the familiar confines of Microsoft Excel.
-##### Project Phases: #####
+
+- ##### Project Phases: #####
 - AI Web Scraping: The project journey commenced with the application of AI-powered web scraping tools. Employing advanced techniques, I extracted comprehensive coffee sales data from online platforms, ensuring a rich dataset that captured various aspects such as product details, pricing, customer reviews, and geographic distribution.
 -  Data Refinement: Armed with the raw data, I meticulously refined and standardized it in Excel. This phase involved data cleaning, removal of duplicates, handling of missing values, and structuring the information into a coherent format ready for analysis.
 - Interactive Excel Dashboard: Transforming refined data into actionable insights, I designed an interactive dashboard within Excel, deonstrating the power of data visualization without the need for specialized software. This dashboard facilitated comprehensive exploration of coffee sales trends and patterns.
