@@ -15,24 +15,27 @@
 **DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI**
 I did web scraping to collect a data, I analyzed industry trends and employment data to uncover insights into the demand for skills and qualifications in the field.
 
-**MUSIC STORE DATA ANAYSIS – Project (LinkedIn Challenge) – SQL**
+- ### MUSIC STORE DATA ANAYSIS – Project (LinkedIn Challenge) – SQL ###
 As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies my passion for uncovering insights through data-driven exploration. This project was a remarkable endeavor where I delved into the world of music retail by leveraging SQL and a dataset from Kaggle. Through meticulous data analysis, I unearthed patterns and trends that shed light on customer behavior and product popularity, demonstrating my analytical capabilities in the field.
-***Project Phases:***
+
+-***Project Phases:***
 - Data Sourcing: The project's journey began with the acquisition of a comprehensive dataset from Kaggle, encompassing valuable information about music store transactions, including customer details, product purchases, and sales records.
 - SQL Analysis: Armed with SQL, I embarked on a journey to analyze the dataset. I formulated queries to unravel meaningful insights, gaining a deep understanding of customer preferences, popular music genres, and purchasing trends.
 - Insightful Discoveries: My analysis led me to discover pivotal insights, such as the most preferred music genres, frequently purchased products, peak sales periods, and customer demographics. These findings highlighted opportunities for business enhancement and personalized marketing strategies.
-***Key Insights from the Analysis:***
+
+-***Key Insights from the Analysis:***
 - Genre Popularity: The project potentially revealed the most popular music genres among customers, which could be used to curate playlists and tailor marketing efforts.
 - Top-Selling Products:Visualizations demonstrated the products that generated the highest revenue, offering valuable information for inventory management and marketing campaigns.
 - Customer Segmentation: By examining customer demographics and purchase behavior, I potentially identified different customer segments, paving the way for targeted promotions and personalized experiences.
 - Seasonal Trends: Analyzing sales data over time potentially exposed seasonal purchasing patterns, aiding in optimizing pricing and marketing strategies.
-***Project Impact:***
+
+-***Project Impact:***
 The "Music Store Data Analysis" project is a testament to my dedication to learning and applying data analytics techniques. As a fresher, this undertaking underscores my commitment to exploring insights that drive business decisions and enhance customer experiences. Through the power of SQL, I demonstrated my ability to transform raw data into actionable insights, showcasing my value in the field of data analysis.
 Adding this project to my portfolio signifies my eagerness to contribute to data-driven decision-making and showcases my dedication to continuous learning and growth. This project underscores my passion for deriving value from data and provides a glimpse into my potential to make an impact as I embark on my journey in the realm of data analysis.
 As a fresher, this project is a stepping stone towards establishing my credibility in the field, highlighting my ability to handle real-world data and present meaningful findings to drive business success.
 
 
-- #### COFFEE SALES DATA ANALYSIS – Personal Project – Excel	####
+- ### COFFEE SALES DATA ANALYSIS – Personal Project – Excel	###
 Embarking on the intersection of data, technology, and business insights, the "Coffee Sales Data Analysis" project showcases my harnessing AI web scraping tools to unearth data. In this, I leveraged cutting-edge technology to gather raw data from online sources, cleaned and structured it using Excel, and in an interactive and visually engaging dashboard within the familiar confines of Microsoft Excel.
 ##### Project Phases: #####
 - AI Web Scraping: The project journey commenced with the application of AI-powered web scraping tools. Employing advanced techniques, I extracted comprehensive coffee sales data from online platforms, ensuring a rich dataset that captured various aspects such as product details, pricing, customer reviews, and geographic distribution.
