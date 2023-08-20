@@ -16,6 +16,7 @@
 ----------------------------------------
 ### DATA ANALYST JOB MARKET EDA – Personal Project – Excel and PowerBI ###
 I did web scraping to collect a data, I analyzed industry trends and employment data to uncover insights into the demand for skills and qualifications in the field.
+
 ---------------
 ### MUSIC STORE DATA ANAYSIS – Project (LinkedIn Challenge) – SQL ###
 As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies my passion for uncovering insights through data-driven exploration. This project was a remarkable endeavor where I delved into the world of music retail by leveraging SQL and a dataset from Kaggle. Through meticulous data analysis, I unearthed patterns and trends that shed light on customer behavior and product popularity, demonstrating my analytical capabilities in the field.
