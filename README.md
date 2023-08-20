@@ -28,6 +28,8 @@ As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies
 - SQL Analysis: Armed with SQL, I embarked on a journey to analyze the dataset. I formulated queries to unravel meaningful insights, gaining a deep understanding of customer preferences, popular music genres, and purchasing trends.
 - Insightful Discoveries: My analysis led me to discover pivotal insights, such as the most popular music genres, frequently purchased products, most sales, and customer demographics.
 
+![Dashboard](/assets/House_Sales_Dashboard.png)
+
 -***Key Insights from the Analysis:***
 - Genre Popularity: The project potentially revealed the most popular music genres among customers, which could be used to curate playlists and tailor marketing efforts.
 - Top-Selling Products: Visualizations demonstrated the products that generated the highest revenue, offering valuable information for inventory management and marketing campaigns.
