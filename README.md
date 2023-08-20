@@ -1,7 +1,7 @@
 # Data Analyst / Business Aanlyst #
-**-----------------------------------------------------------------
+**-----------------------------------------------------------------**
 ## Skill ##
-####---------------------------------------
+####---------------------------------------####
 - SQL (SQL Server, MySQL)
 - Excel (VLOOKUPs, Conditional Formatting, Pivot Tables, Dashboard)
 - Data Analysis
