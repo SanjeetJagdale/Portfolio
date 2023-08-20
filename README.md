@@ -28,7 +28,7 @@ As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies
 - SQL Analysis: Armed with SQL, I embarked on a journey to analyze the dataset. I formulated queries to unravel meaningful insights, gaining a deep understanding of customer preferences, popular music genres, and purchasing trends.
 - Insightful Discoveries: My analysis led me to discover pivotal insights, such as the most popular music genres, frequently purchased products, most sales, and customer demographics.
 
-![Dashboard](/assets/img/House_Sales_Dashboard.png) 
+![Diagram](/assets/img/schema_diagram.png) 
 
 -***Key Insights from the Analysis:***
 - Genre Popularity: The project potentially revealed the most popular music genres among customers, which could be used to curate playlists and tailor marketing efforts.
@@ -49,6 +49,8 @@ The "Coffee Sales Data Analysis" project showcases my **web scraping** skills to
 -  Data Refinement: Armed with the raw data, I refined and standardized it in Excel. This phase involved data cleaning, removal of duplicates, handling of missing values, and structuring the information into a coherent format ready for analysis.
 - Interactive Excel Dashboard: Transforming refined data into actionable insights, I designed an interactive dashboard within Excel, deonstrating the power of data visualization without the need for specialized software. This dashboard facilitated comprehensive exploration of coffee sales trends and patterns.
 
+![Dashboard](/assets/img/Coffee_Sales_Dashboard.png) 
+
 -***Key Features of the Dashboard:***
 - Geographic Insights: Dynamic bar chart provided a visual representation of coffee sales across different regions, enabling users to identify areas of high demand and potential expansion opportunities.
 - Product Performance: Interactive visuals showcased the performance of various coffee products, shedding light on top-selling items and customer preferences.
@@ -67,6 +69,8 @@ The "Car Insurance Policies Report" stands as a testament to my proficiency in t
 - Dataset Exploration: The journey began with the exploration of a comprehensive dataset containing a wealth of information about car insurance policies. The dataset encompassed crucial details such as claim amount, household income, coverage zone, claim history, and car details.
 - Data Transformation: To ensure the dataset was conducive to analysis, I applied various data transformation techniques using Power Query within Power BI. This phase involved data cleaning, joining relevant tables, handling missing values, and standardizing formats for consistency.
 - Dashboard Design: With a refined dataset at hand, I embarked on the creation of an intuitive and interactive dashboard using Power BI's visualization capabilities. The dashboard was designed to offer an insightful overview of key insurance metrics and trends.
+
+![Dashboard](/assets/img/Car_Insurance_Dashboard.png) 
 
 -***Key Features of the Dashboard:***
 - KPI's : Interactive KPI's provided an overview, allowing users to understand the key Insights.
@@ -87,8 +91,7 @@ In the real estate analytics, understanding housing market trends and patterns i
 - Data Cleaning and Preprocessing: Once the data was acquired, it required thorough cleaning and preprocessing to ensure accuracy and consistency. I used **excel** for tasks such as removing duplicates, handling missing values, and formatting data appropriately for analysis. This phase aimed to create a clean, organized dataset ready for further analysis.
 - Dashboard Creation: The heart of the project was the creation of an interactive dashboard using **Power BI**, a powerful business analytics tool. Leveraging the cleaned dataset, I designed a user-friendly interface that allowed users to explore various facets of the housing market. The dashboard included visually engaging charts, line graph, map, and filters to provide an intuitive and dynamic user experience. Where in the bar charts, I try to create a histogram by using **DAX** formulas.
 
-
-
+![Dashboard](/assets/img/House_Sales_Dashboard.png) 
 
 -***Key Features of the Dashboard:***
 - Geospatial Visualization: A map visualization showcased the distribution of house sales across King County, helping users identify popular neighborhoods and areas of interest.
