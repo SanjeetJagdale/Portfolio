@@ -27,6 +27,8 @@ As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies
 
 ![Diagram](/assets/img/schema_diagram.png) 
 
+![Queries](/assets/img/projectSQL.sql) 
+
 -***Key Insights from the Analysis:***
 - Genre Popularity: The project potentially revealed the most popular music genres among customers, which could be used to curate playlists and tailor marketing efforts.
 - Top-Selling Products: Visualizations demonstrated the products that generated the highest revenue, offering valuable information for inventory management and marketing campaigns.
