@@ -27,6 +27,7 @@ As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies
 
 ![Diagram](/assets/img/schema_diagram.png) 
 
+-***Download sql file -***
 [Queries](/assets/img/projectSQL.sql) 
 
 -***Key Insights from the Analysis:***
