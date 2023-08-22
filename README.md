@@ -124,6 +124,15 @@ Education
 BACHELOR OF ENGINEERING – SPPU – D.Y. Patil College of Engineering, Akurdi, Pune. (June 2018 – June 2022)            
 -CGPA: 8.39
 
+## LET'S CONNECT 
+---------------------------------------
+- Mail   : sanjeet.jagdale@gmail.com
+- Phone  : 9370132627
+- [LinkdIn](https://www.linkedin.com/in/sanjeet-jagdale/)
+
+
+
+
 
 
 
