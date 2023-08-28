@@ -17,7 +17,7 @@ ________________________________________
 ## PROJECTS ##
 ----------------------------------------
 
-### MUSIC STORE DATA ANALYSIS – Personal Project – SQL ###
+### MUSIC STORE DATA ANALYSIS – Project (LinkedIn Challenge) – SQL ###
 - As a budding data enthusiast, my "Music Store Data Analysis" project exemplifies my passion for uncovering insights through data-driven exploration. This project is where I delved into the world of music retail by leveraging **SQL** and a dataset from Kaggle. Through data analysis, I unearthed patterns and trends that shed light on customer behavior and product popularity, demonstrating my analytical capabilities in the field.
 
 -***Project Phases:***
@@ -83,7 +83,7 @@ As a fresher, this project is a stepping stone towards establishing my credibili
 
 
 **---------------**
-### House Sales Data Analysis - Perosnal Project - Excel and PowerBI ###
+### HOUSE SALES DATA ANALYSIS - Perosnal Project - Excel and PowerBI ###
 - In the real estate analytics, understanding housing market trends and patterns is crucial for both buyers and sellers. The "King County, Washington House Sales Analysis" is a comprehensive data visualization project that delves into the housing market. This project involved gathering, cleaning, and analyzing real estate data from Kaggle, followed by the creation of an interactive and insightful dashboard using Power BI.
 
 -***Project Phases:***
@@ -123,6 +123,7 @@ Education
 ---------------------------------------
 BACHELOR OF ENGINEERING – SPPU – D.Y. Patil College of Engineering, Akurdi, Pune. (June 2018 – June 2022)            
 -CGPA: 8.39
+
 
 ## LET'S CONNECT 
 ---------------------------------------
