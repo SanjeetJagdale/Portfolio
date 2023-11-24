@@ -107,7 +107,15 @@ As a fresher, this project is a stepping stone towards establishing my credibili
 
 ## WORK EXPERIENCE ##
 ---------------------------------------
-- #### ACCENTURE – Data Analytics and Visualization Virtual Experience 	
+- #### TELUS INTERNATIONAL – Analyst – Remote  	
+Research using online tools to determine and judge the intent and accuracy of queries.
+Applying market knowledge with provided guidelines to judge the relevance and intent of task information.
+
+- #### FIVERR/UPWORK – Data Analyst and Visualization – Freelance 	
+I offer expertly crafted, interactive dashboards using Power BI, Tableau, and Excel, tailored to your unique data needs.
+Data cleaning using Excel and SQL.
+
+- #### ACCENTURE – Data Analytics and Visualization Virtual Internship 	
 In this program By Accenture, I contributed to the project by conducting data cleaning, data modeling, and visualization
 I identified the most popular content categories through data-driven insights
 Through a PowerPoint presentation, I effectively communicated our analysis process showcasing knowledge in storytelling  
@@ -121,7 +129,7 @@ Education
 
 ## EDUCATION ##
 ---------------------------------------
-BACHELOR OF ENGINEERING – SPPU – D.Y. Patil College of Engineering, Akurdi, Pune. (June 2018 – June 2022)            
+BACHELOR OF ENGINEERING – SPPU – D.Y. Patil College of Engineering, Akurdi, Pune.           
 -CGPA: 8.39
 
 
