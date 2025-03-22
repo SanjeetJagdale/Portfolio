@@ -107,10 +107,6 @@ As a fresher, this project is a stepping stone towards establishing my credibili
 
 ## WORK EXPERIENCE ##
 ---------------------------------------
-- #### TELUS INTERNATIONAL – Analyst – Remote  	
-Research using online tools to determine and judge the intent and accuracy of queries.
-Applying market knowledge with provided guidelines to judge the relevance and intent of task information.
-
 - #### FIVERR/UPWORK – Data Analyst and Visualization – Freelance 	
 I offer expertly crafted, interactive dashboards using Power BI, Tableau, and Excel, tailored to your unique data needs.
 Data cleaning using Excel and SQL.
